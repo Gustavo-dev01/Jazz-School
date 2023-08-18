@@ -219,6 +219,7 @@ a {
 /* Responsividade */
 @media screen and (min-width:40rem) {
     header nav {
+        overflow: hidden;
         display:block;
         text-align:center;
     }
